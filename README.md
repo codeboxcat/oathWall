@@ -21,18 +21,18 @@ MOAC誓言墙是基于MOAC+前端Jquery实现的上链的誓言墙，誓言的�
  修改chain.js中两个钱包地址
  ```
  var moacTestSrcAddr = "0x32d012e43fdc978260cee98f5f6899a6cb18a148";
- var moacTestSrcSecret = "dc641502929e384bc6434425d0d580a2c185a97d3d52bfe74a4c23faf8bc8024";
+ var moacTestSrcSecret = "";
  var moacTestDestAddr = "0x07b18a20c025674bd30edce6fe055d7d5a55f370";
- var moacTestDestSecret = "94dfec2d2bdb3cde1a70700b123a3030b369a57a8d4d041ceb2625784263afb3";
+ var moacTestDestSecret = "";
  ```
  如果使用moac测试网
   通过 https://dapi.sparkchain.cn/v1/account/creatAccount?chainCode=moacTest 来创建两个账户
  修改chain.js中两个钱包地址
  ```
  var moacTestSrcAddr = "0x32d012e43fdc978260cee98f5f6899a6cb18a148";
- var moacTestSrcSecret = "dc641502929e384bc6434425d0d580a2c185a97d3d52bfe74a4c23faf8bc8024";
+ var moacTestSrcSecret = "";
  var moacTestDestAddr = "0x07b18a20c025674bd30edce6fe055d7d5a55f370";
- var moacTestDestSecret = "94dfec2d2bdb3cde1a70700b123a3030b369a57a8d4d041ceb2625784263afb3";
+ var moacTestDestSecret = "";
 ```
 
 - 向主钱包打钱
