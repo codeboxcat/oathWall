@@ -4,7 +4,9 @@ MOAC誓言墙是基于MOAC+前端Jquery实现的上链的誓言墙，誓言的�
 ## Getting started
 - 下载当前项目，只要浏览器即可
 ![查看页面](./show.png)
+ - git中直接查看： http://htmlpreview.github.com/?https://github.com/moacDapp/oathWall/blob/master/index.html
 
+ - 到Moac公链中查看：http://explorer.moac.io/addr/0x07b18a20c025674bd30edce6fe055d7d5a55f370
 ## 上链设置
 本示例的上链使用了火花链的API接口进行上链操作，使用火花链的API接口的简单方便，火花链的API接口目前分两个层面
 - 钱包层面  <a href="https://github.com/sparkChainBaas/wechatMsg">微信留言板</a> 给出一个官方的实现
