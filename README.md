@@ -4,7 +4,8 @@ MOAC誓言墙是基于MOAC+前端Jquery实现的上链的誓言墙，誓言的�
 ## Getting started
 - 下载当前项目，只要浏览器即可
 ![查看页面](./show.png)
- - git中直接查看： http://htmlpreview.github.com/?https://github.com/moacDapp/oathWall/blob/master/index.html
+  
+ - git中直接查看玩一玩（当前的moac只能玩几十次）： http://htmlpreview.github.com/?https://github.com/moacDapp/oathWall/blob/master/index.html
 
  - 到Moac公链中查看：http://explorer.moac.io/addr/0x07b18a20c025674bd30edce6fe055d7d5a55f370
 ## 上链设置
