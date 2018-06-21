@@ -70,11 +70,37 @@ window.upchain = function (username, words) {
     }
   });
 ```
+## 学习示例
+
+ - 誓言墙：简单的快速上手的解决方案，https://github.com/moacDapp/oathWall
+ - 扫雷小程序：小程序上链哦，可以玩一玩，https://github.com/moacDapp/mineScan
+ - moac 流水查询器：学习moac chain3的最佳例子, https://github.com/moacDapp/moac_scan
+ - 微信留言板：官方的标准示例，稍稍复杂了一点，https://github.com/sparkChainBaas/wechatMsg
+ - Moac、ETH、Jingtum客户端的开发环境，不需要自己搭客户端，搭NodeJS，简单的一行docker命令即可使用，https://github.com/sparkChainBaas/baseDocker
+
+ ### 官方技术交流论坛
+  欢迎大家到<a href="http://sparkda.com/">斯巴达论坛</a>进行提问及交流 
+
+### 官方技术BAAS平台
+  欢迎大家到<a href="http://baas.sparkchain.cn/">火花链BaaS平台</a>发现更多好玩的Dapp（目前正开发中）
+
+
 
 ## 联系作者
    Email:546711211@qq.com
 
-![查看页面](./1529454504499.png)
+![QQ群：805362142](./1529454504499.png)
+
+
+## 第三方合作伙伴
+
+ - <a href="http://www.sparkchain.cn">火花链</a> ,技术交流论坛 href="http://sparkda.com/ , 技术BAAS平台: href="http://baas.sparkchain.cn/ （目前正开发中）, 币圈资讯：https://www.damenginfo.com/
+
+ - <a href="https://www.jingtum.com/">井通科技</a>,github地址为：https://github.com/swtcpro ，开发者文档地址：http://developer.jingtum.com/  浏览器地址：http://state.jingtum.com
+
+ - <a href="http://www.moac.io/">MOAC</a>,github地址为：ttps://github.com/MOACChain/,开发者文档地址：https://github.com/MOACChain/moac-core/wiki/Commands ,https://github.com/MOACChain/moac-core/wiki/Chain3 ,浏览器地址：http://explorer.moac.io/home
+ 
+
 
 ## License
 License (MIT)
